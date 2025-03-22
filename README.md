@@ -2,8 +2,7 @@
 
 A simple yet effective batch script to toggle mods between Red Dead Redemption 2 story mode and Red Dead Online.
 
-![RDR2 Screenshot](![image](https://github.com/user-attachments/assets/dd561043-94df-4d5e-98cc-593620041027)
-)
+![RDR2 Screenshot](https://github.com/user-attachments/assets/dd561043-94df-4d5e-98cc-593620041027)
 
 ## Overview
 
